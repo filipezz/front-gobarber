@@ -29,7 +29,8 @@
         "prettier"
     ],
     "rules": {
-
+      "react/jsx-one-expression-per-line":"off",
+      "import/no-duplicates":"off",
       "react/jsx-props-no-spreading": "off",
       "prettier/prettier":"error",
       "camelcase":"off",
